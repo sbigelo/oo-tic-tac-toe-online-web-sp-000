@@ -95,8 +95,9 @@ class TicTacToe
     turn
     end
     if won?
-      puts "Congratulations #{winner}"
+      winner
     else
+      puts "Cat's Game!"
     end
   end
   
