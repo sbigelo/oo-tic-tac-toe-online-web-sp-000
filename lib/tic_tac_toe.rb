@@ -91,7 +91,7 @@ class TicTacToe
   end
   
   def play
-    puts "please"
+    turn
   end
   
   
